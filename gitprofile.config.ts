@@ -9,7 +9,7 @@ const CONFIG = {
    * If you are deploying to https://<USERNAME>.github.io/<REPO_NAME>/,
    * for example your repository is at https://github.com/arifszn/portfolio, then set base to '/portfolio/'.
    */
-  base: '/gitprofile/',
+  base: '/',
   projects: {
     github: {
       display: true, // Display GitHub projects?
@@ -79,20 +79,16 @@ const CONFIG = {
       'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'Laravel',
-    'JavaScript',
-    'React.js',
-    'Node.js',
-    'Nest.js',
-    'MySQL',
-    'PostgreSQL',
+    'C++',
+    'C',
+    'Linux',
+    'C#',
+    'F#',
+    'Assembler',
+    'BurpSuite',
+    'Kali Linux',
     'Git',
-    'Docker',
-    'PHPUnit',
-    'CSS',
-    'Antd',
-    'Tailwind',
+    'JavaScript',
   ],
   // experiences: [
   //   {
@@ -118,20 +114,20 @@ const CONFIG = {
       link: 'https://drive.google.com/file/d/1SPYwR3ZyXwZ96U9HPxeAFLSEMdnuUuvX/view?usp=drive_link',
     },
   ],
-  educations: [
-    {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
-    },
-    {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
-    },
-  ],
+  // educations: [
+  //   {
+  //     institution: 'Institution Name',
+  //     degree: 'Degree',
+  //     from: '2015',
+  //     to: '2019',
+  //   },
+  //   {
+  //     institution: 'Institution Name',
+  //     degree: 'Degree',
+  //     from: '2012',
+  //     to: '2014',
+  //   },
+  // ],
   publications: [
     {
       title: 'Publication Title',
