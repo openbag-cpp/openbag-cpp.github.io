@@ -50,7 +50,7 @@ const CONFIG = {
   //       },
   //     ],
   //   },
-  // },
+  },
   seo: { title: 'Portfolio of Egor Sholkov', description: '', imageURL: '' },
   // social: {
   //   linkedin: 'ariful-alam',
