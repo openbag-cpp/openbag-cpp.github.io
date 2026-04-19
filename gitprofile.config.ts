@@ -76,7 +76,7 @@ const CONFIG = {
   // },
   resume: {
     fileUrl:
-      'https://drive.google.com/file/d/1WgVdj0oh9CYdoexo-leZAwOQke2CYk6s/view?usp=drive_link', // Empty fileUrl will hide the `Download Resume` button.
+      'https://drive.google.com/file/d/1WgVdj0oh9CYdoexo-leZAwOQke2CYk6s/view?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'C++',
@@ -111,14 +111,14 @@ const CONFIG = {
       name: 'Научная конференция по компьютерной безопасности',
       body: 'Выдан ПГНИУ',
       year: 'Июнь 2025',
-      link: 'https://drive.google.com/file/d/1SPYwR3ZyXwZ96U9HPxeAFLSEMdnuUuvX/view?usp=drive_link',
+      link: 'https://drive.google.com/file/d/1SPYwR3ZyXwZ96U9HPxeAFLSEMdnuUuvX/view?usp=sharing',
     },
 
     {
       name: 'PERMCTF',
       // body: 'Выдан ПГНИУ',
       year: 'Март 2026',
-      link: 'https://drive.google.com/file/d/1bm7aFNV3xE0zMywUiBe0aR0j2J-fLYMv/view?usp=drive_link',
+      link: 'https://drive.google.com/file/d/1bm7aFNV3xE0zMywUiBe0aR0j2J-fLYMv/view?usp=sharing',
     },
 
     
